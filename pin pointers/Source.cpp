@@ -9,7 +9,7 @@ void AddMoney(int& r_cash);
 int main()
 {
 	// Welcome User
-	cout << "\n\n\t\t*** Welcome to RedRiver  Mobile Banking ***\n\n";
+	cout << "\n\n\t\t*** Welcome to RedRiver  Mobile Banking ***\n\n"; 
 
 	// get the Users name as a string for the account
 	cout << "\n\nWho is opening this account?\n\n" << endl;
