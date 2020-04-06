@@ -27,7 +27,7 @@ int main()
 	int cash = 1000;
 
 	// Display the Users amount in their account
-	cout << "\n\nYou currently have $" << cash << " in your account." << endl;
+	cout << "\n\nYou currently have $" << cash << " in your account." << endl; 
 
 	// A ref will never be different than what it is referencing
 	// Reference
